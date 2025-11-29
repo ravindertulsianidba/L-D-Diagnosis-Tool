@@ -1,5 +1,5 @@
 {
-  "name": "L&D Performance Consultant",
-  "description": "A rigorous Training Needs Diagnosis tool that acts as an expert performance consultant to identify root causes and solution mixes before suggesting training.",
+  "name": "Domino Map™ Diagnosis Tool",
+  "description": "A conversational AI interface for the Domino Map™ Training Needs Diagnosis Step 1 process.",
   "requestFramePermissions": []
 }
